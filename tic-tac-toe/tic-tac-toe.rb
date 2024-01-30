@@ -34,8 +34,12 @@
         - maybe check that the board has no more underscores?
 
     - split up board by row, col, diagonal???
+      - should these be arrays?
+      - how to store these values?
+      - array for rows? or for all three cols, rows, and diagonals?
 
   2. add user inputs
       - will need to brainstorm this more
+      - will have to take console input and update the info in our gameboard class
 
 =end
